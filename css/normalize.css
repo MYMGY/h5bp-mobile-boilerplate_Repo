@@ -31,6 +31,7 @@ audio,
 canvas,
 video {
     display: inline-block;
+    
 }
 
 /**
@@ -107,7 +108,9 @@ a:hover {
 
 h1 {
     font-size: 2em;
+	text-align:center;    
     margin: 0.67em 0;
+    Color:navy;
 }
 
 /**
